@@ -75,8 +75,6 @@ print("The Mean arrival rate is %.3f" %mean)
 print("The Variance of arrival from feeder is %.3f" %var)
 print("The Standard deviation of arrival from feeder is %.3F" %SD)
 
-
-
 # Output : 3 4 5 The Mean arrival rate is 4.000 The Variance of arrival from feeder is 0.667 The Standard deviation from feeder is 0.816
 
 # Results :
